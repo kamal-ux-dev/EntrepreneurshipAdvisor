@@ -11,7 +11,7 @@ EntrepreneurshipAdvisor is a chatbot specifically designed to assist users with 
 To get started with EntrepreneurshipAdvisor, follow these steps:
 
 1. Clone the repository: 
-   git clone https://github.com/code001001/EntrepreneurshipAdvisor.git cd EntrepreneurshipAdvisor
+   git clone https://github.com/kamal-ux-dev/EntrepreneurshipAdvisor.git cd EntrepreneurshipAdvisor
 
 2. Install the Gaia Node: 
    curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
